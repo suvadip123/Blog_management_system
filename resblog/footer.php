@@ -1,5 +1,5 @@
 <!--footer-->
-	<footer>
+<footer>
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 footer-grid-agileits-w3ls text-left">
@@ -66,8 +66,8 @@
 					</div>
 				</div>
 				<div class="w3layouts-agile-copyrightbottom">
-					<p> Responsive Blog Site  <?php $current=date("Y"); print_r($current);?> | Brought To You by Suvadip Maiti
-						
+					<p> Responsive Blog Site <?php $current=date("Y"); print_r($current);?> | Brought To You by
+						Suvadip Maiti
 					</p>
 
 				</div>
